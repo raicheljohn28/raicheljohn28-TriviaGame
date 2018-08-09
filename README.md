@@ -14,3 +14,4 @@
 
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without         reloading the page).
 
+![](./assets/images/moana-demo.png)
